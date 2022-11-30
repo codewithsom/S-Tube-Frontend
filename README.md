@@ -1,4 +1,4 @@
-# U-Tube-Clone-Frontend
+# U-Tube-Clone-Frontend:
 - Built using ReactJS, Styled Components
 
 ## Home Page:
